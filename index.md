@@ -27,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](8F4CBE16-3435-4EBF-B1AF-2CFB348108D9.JPG)
 ```
 ![Image](8F4CBE16-3435-4EBF-B1AF-2CFB348108D9.JPG)
-[Link](www.frontrangegeosciences.com)
+[Front Range Geosciences](https://frontrangegeosciences.com)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
